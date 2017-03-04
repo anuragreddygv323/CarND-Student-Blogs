@@ -6,6 +6,7 @@
 |[CarND Project 1: Lane Lines Detection — A Complete Pipeline](https://medium.com/@kirilldaniluk/carnd-project-1-lane-lines-detection-a-complete-pipeline-6b815037d02c#.6lj0ufs92)|Kirill Danilyuk|2017/02/27
 |[Robust Extrapolation of Lines in Video Using Probabilistic Hough Transform](https://medium.com/@esmat.anis/robust-extrapolation-of-lines-in-video-using-linear-hough-transform-edd39d642ddf#.2knd55tnu)|Esmat Nabil|2017/01/28
 |[Building a lane detection system using Python 3 and OpenCV](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0#.6x2ndz7yc)|Galen Ballew|2017/01/24
+|[Extrapolate lines with numpy.polyfit](https://peteris.rocks/blog/extrapolate-lines-with-numpy-polyfit/)|Pēteris Ņikiforovs|2017/01/23
 |[My first step towards building a Self Driving Car !!](https://medium.com/@sujaybabruwad/my-first-step-towards-building-a-self-driving-car-d1f75ae783a2#.6qnyh5nlc)|Sujay Babruwad|2017/01/20
 |[Udacity Self-Driving Car Nanodegree Project 1 — Finding Lane Lines](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-1-finding-lane-lines-719ac1adbed9#.q50q3mm8l)|Jeremy Shannon|2016/12/21
 |[Self-Driving Car Engineer Diary — 2](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-2-11eacba4d2a7#.3a1basmcf)|Andrew Wilkie|2016/12/18
@@ -58,6 +59,7 @@
 |[Advanced Lane Detection](https://medium.com/@NickHortovanyi/advanced-lane-detection-8b98b79b9cac#.c7iap4ppn)|Nick Hortovanyi|2017/02/11
 |[Udacity Advance Lane Finding Notes](https://medium.com/@fromtheast/computer-vision-resources-411ae9bfef51#.w0b7j9h2n)|A Nguyen|2017/02/06
 |[More robust lane finding using advanced computer vision techniques](https://chatbotslife.com/robust-lane-finding-using-advanced-computer-vision-techniques-46875bb3c8aa#.kt885rsbx)|Vivek Yadav|2017/01/16
+|[Udacity SDCND : Advanced Lane Finding Using OpenCV](https://medium.com/@heratypaul/udacity-sdcnd-advanced-lane-finding-45012da5ca7d#.rskrnue7l)|Paul Heraty|2017/01/12
 
 ## Project 05 - Vehicle Detection and Tracking
 |link|author|date|
@@ -67,3 +69,4 @@
 |[(Almost) Real time vehicle detection using YOLO](https://medium.com/@xslittlegrass/almost-real-time-vehicle-detection-using-yolo-da0f016b43de#.riwaa22s3)|Mengxi Wu|2017/02/27
 |[Vehicle Detection and Tracking](https://medium.com/@NickHortovanyi/vehicle-detection-and-tracking-6665d6e1089b#.e066crtx9)|Nick Hortovanyi|2017/02/24
 |[Feature extraction for Vehicle Detection using HOG+](https://medium.com/@mohankarthik/feature-extraction-for-vehicle-detection-using-hog-d99354a84d10#.yhq6rgias)|Mohan Karthik|2017/02/14
+|[Convolutional Neural Networks to find Cars](https://medium.com/@tuennermann/convolutional-neural-networks-to-find-cars-43cbc4fb713#.3z2dx2cnn)|Henrik Tünnermann|2017/01/16
