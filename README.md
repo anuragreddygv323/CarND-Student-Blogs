@@ -42,9 +42,7 @@
 |[Behaviour Cloning (Learning Driving Pattern) — CarND](https://medium.com/@gruby/behaviour-cloning-learning-driving-pattern-c029962a0bbf#.8z9fmbux9)|Satya Sheel|2017/02/14
 |[Behavioral Cloning — Transfer Learning with Feature Extraction](https://medium.com/@kastsiukavets.alena/behavioral-cloning-transfer-learning-with-feature-extraction-a17b0ebabf67#.hazjx9hoo)|Alena Kastsiukavets|2017/02/14
 |[MainSqueeze: The 52 parameter model that drives in the Udacity simulator](https://mez.github.io/deep%20learning/2017/02/14/mainsqueeze-the-52-parameter-model-that-drives-in-the-udacity-simulator/)|Mez Gebre|2017/02/14
-|[Cloning Driving Behavior by augmenting steering angles](https://medium.com/@acflippo/cloning-driving-behavior-by-augmenting-steering-angles-5faf7ea8a125#.ht97oge0j)|Annie Flippo|2017/01/13
 |[Self-Driving Car Engineer Diary — 5](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-5-63d2daab4591#.tw2ayholu)|Andrew Wilkie|2017/02/11
-|[Teaching a car to mimic your driving behaviour](https://medium.com/@subodh.malgonde/teaching-a-car-to-mimic-your-driving-behaviour-c1f0ae543686#.i12vm8zc9)|Subodh Malgonde|2017/01/10
 |[Udacity Self-Driving Car Nanodegree Project 3 — Behavioral Cloning](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9#.ercv0bsy1)|Jeremy Shannon|2017/02/10
 |[UDACITY SDCE Nanodegree: Term 1- Project 3: Behavioral Cloning!](https://medium.com/@ckyrkou/udacity-sdce-nanodegree-term-1-project-3-behavioral-cloning-ecd9f5b3c3e8#.mx8oz2koi)|Christos Kyrkou|2017/02/07
 |[End-to-end learning for self-driving cars](http://navoshta.com/end-to-end-deep-learning/)|Alex Staravoitau|2017/02/05
