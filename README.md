@@ -3,6 +3,7 @@
 ## Project 01 - Finding Lane Lines
 |link|author|date|
 |:---|:---|:---|
+|[Temporal Smoothing to Remove Jitter in Detected Lane Lines](https://medium.com/@liamondrop/temporal-smoothing-to-remove-jitter-in-detected-lane-lines-d1430cb5c106#.bgb1gaz22)|Liam Bowers|2017/03/08
 |[CarND Project 1: Lane Lines Detection — A Complete Pipeline](https://medium.com/@kirilldaniluk/carnd-project-1-lane-lines-detection-a-complete-pipeline-6b815037d02c#.6lj0ufs92)|Kirill Danilyuk|2017/02/27
 |[OpenCV for Lane Detection — CarND](https://medium.com/@gruby/opencv-for-lane-detection-carnd-f9d58d077ee2#.hsy5is5sc)|Satya Sheel|2017/02/06
 |[Robust Extrapolation of Lines in Video Using Probabilistic Hough Transform](https://medium.com/@esmat.anis/robust-extrapolation-of-lines-in-video-using-linear-hough-transform-edd39d642ddf#.2knd55tnu)|Esmat Nabil|2017/01/28
