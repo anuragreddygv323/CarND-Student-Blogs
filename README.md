@@ -33,6 +33,7 @@
 ## Project 03 - Behavioral Cloning
 |link|author|date|
 |:---|:---|:---|
+|[Alright Squares; Let's Talk Triangles](https://hoganengineering.wixsite.com/randomforest/single-post/2017/03/13/Alright-Squares-Lets-Talk-Triangles)|Andrew Hogan|2017/03/14
 |[Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.fn4z9fw0u)|Param Aggarwal|2017/03/05
 |[Transfer Learning for Behavioral Cloning](https://medium.com/@kosukemurakami/transfer-learning-for-behavioral-cloning-df0d49c0c69b#.2zeoq5tav)|Kosuke Murakami|2017/03/04
 |[Behavioral Cloning — Self-Driving Car Simulation](https://medium.com/@jmitchell1991/behavioral-cloning-self-driving-car-simulation-14531358c87e#.s8izicai8)|Jonathan Mitchell|2017/02/25
@@ -81,9 +82,10 @@
 ## Project 05 - Vehicle Detection and Tracking
 |link|author|date|
 |:---|:---|:---|
-|[Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.njlo1n3nn)|Kaspar Sakmann|2017/02/25
-|[Vehicle Detection and Distance Estimation](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.d58lh7qad)|Milutin N. Nikolic|2017/03/02
+|[Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.jljsa6f9e)|Arnaldo Gunzi|2017/03/07
+|[Vehicle Detection and Distance Estimation](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.2qfiyxcgq)|Milutin N. Nikolic|2017/03/03
 |[(Almost) Real time vehicle detection using YOLO](https://medium.com/@xslittlegrass/almost-real-time-vehicle-detection-using-yolo-da0f016b43de#.riwaa22s3)|Mengxi Wu|2017/02/27
+|[Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.njlo1n3nn)|Kaspar Sakmann|2017/02/25
 |[Vehicle Detection and Tracking](https://medium.com/@NickHortovanyi/vehicle-detection-and-tracking-6665d6e1089b#.e066crtx9)|Nick Hortovanyi|2017/02/24
 |[Feature extraction for Vehicle Detection using HOG+](https://medium.com/@mohankarthik/feature-extraction-for-vehicle-detection-using-hog-d99354a84d10#.yhq6rgias)|Mohan Karthik|2017/02/14
 |[Convolutional Neural Networks to find Cars](https://medium.com/@tuennermann/convolutional-neural-networks-to-find-cars-43cbc4fb713#.3z2dx2cnn)|Henrik Tünnermann|2017/01/16
