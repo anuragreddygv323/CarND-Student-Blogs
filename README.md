@@ -15,6 +15,7 @@
 |[Self-Driving Car Engineer Diary — 2](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-2-11eacba4d2a7#.3a1basmcf)|Andrew Wilkie|2016/12/18
 |[My Lane Detection Project in the Self Driving Car Nanodegree by Udacity](https://medium.com/towards-data-science/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3#.vc1n9k24l)|Param Aggarwal|2016/12/07
 |[My first lane detection algo](https://medium.com/@NickHortovanyi/my-first-lane-detection-algo-431e556324e#.cvv76vowu)|Nick Hortovanyi|2016/12/05
+|[Lane detection](https://medium.com/@MSqalli/lane-detection-446986c44021#.wo9a6tuib)|Mehdi Sqalli|2016/11/06
 
 ## Project 02 - Traffic Sign Classifier
 |link|author|date|
@@ -29,6 +30,7 @@
 |[German Traffic Sign Classification Using Deep Learning](https://medium.com/@muddassirahmed/german-traffic-sign-classification-using-deep-learning-219c53fba329#.qiuso98d5)|Muddassir Ahmed|2017/01/16
 |[Traffic signs classification with a convolutional network](http://navoshta.com/traffic-signs-classification/)|Alex Staravoitau |2017/01/15|
 |[(98.8% solution) German sign classification using deep learning neural networks](https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.fcqd0j2zs)|Vivek Yadav|2016/12/15
+|[Traffic signs classification with Deep Learning.](https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.2j9z17dh6)|Mehdi Sqalli|2016/12/05
 
 ## Project 03 - Behavioral Cloning
 |link|author|date|
@@ -51,6 +53,7 @@
 |[Self-Driving Car Simulator — Behavioral Cloning (P3)](https://medium.com/@jmlbeaujour/self-driving-car-simulator-behavioral-cloning-p3-c9f4338c86b0#.cjoakv5fi)|Jean-Marc Beaujour|2017/02/01
 |[You don’t need lots of data! (Udacity Behavioral Cloning)](https://medium.com/@fromtheast/you-dont-need-lots-of-data-udacity-behavioral-cloning-6d2d87316c52#.gfz6hka3q)|A Nguyen|2017/02/01
 |[Self Driving Car — Technology drives the Future !!](https://medium.com/@sujaybabruwad/teaching-a-car-to-ride-itself-by-showing-it-how-a-human-driver-does-it-797cc9c2462b#.l4cbq1t7w)|Sujay Babruwad|2017/02/01
+|[Teach a car how to drive with Deep Learning.](https://medium.com/@MSqalli/teach-a-car-how-to-drive-b54e921f64d2#.mpp3sp6ub)|Mehdi Sqalli|2017/01/30
 |[Clone driving behaviour using Deep Learning](https://medium.com/@NickHortovanyi/clone-driving-behaviour-17a809cd400b#.hkbeun6kn)|Nick Hortovanyi|2017/01/18
 |[Self-driving car in a simulator with a tiny neural network](https://medium.com/@xslittlegrass/self-driving-car-in-a-simulator-with-a-tiny-neural-network-13d33b871234#.qstlh7wtl)|Mengxi Wu|2017/01/15
 |[Cloning Driving Behavior by augmenting steering angles](https://medium.com/@acflippo/cloning-driving-behavior-by-augmenting-steering-angles-5faf7ea8a125#.on1vx1an5)|Annie Flippo|2017/01/13
@@ -82,6 +85,7 @@
 ## Project 05 - Vehicle Detection and Tracking
 |link|author|date|
 |:---|:---|:---|
+|[Vehicle detection](https://medium.com/@MSqalli/vehicle-detection-497a779fbe21#.v92g99y9g)|Mehdi Sqalli|2017/03/27
 |[Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.jljsa6f9e)|Arnaldo Gunzi|2017/03/07
 |[Vehicle Detection and Distance Estimation](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.2qfiyxcgq)|Milutin N. Nikolic|2017/03/03
 |[(Almost) Real time vehicle detection using YOLO](https://medium.com/@xslittlegrass/almost-real-time-vehicle-detection-using-yolo-da0f016b43de#.riwaa22s3)|Mengxi Wu|2017/02/27
