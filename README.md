@@ -1,6 +1,8 @@
-# CarND-Student-Blogs
+# Blog posts by Udacity's Self-Driving Car students [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-## Project 01 - Finding Lane Lines
+## Term 1: Computer Vision and Deep Learning
+
+### Project 1 - Finding Lane Lines
 |link|author|date|
 |:---|:---|:---|
 |[Temporal Smoothing to Remove Jitter in Detected Lane Lines](https://medium.com/@liamondrop/temporal-smoothing-to-remove-jitter-in-detected-lane-lines-d1430cb5c106#.bgb1gaz22)|Liam Bowers|2017/03/08
@@ -17,7 +19,7 @@
 |[My first lane detection algo](https://medium.com/@NickHortovanyi/my-first-lane-detection-algo-431e556324e#.cvv76vowu)|Nick Hortovanyi|2016/12/05
 |[Lane detection](https://medium.com/@MSqalli/lane-detection-446986c44021#.wo9a6tuib)|Mehdi Sqalli|2016/11/06
 
-## Project 02 - Traffic Sign Classifier
+### Project 2 - Traffic Sign Classifier
 |link|author|date|
 |:---|:---|:---|
 |[Updated! My 99.68% solution to Udacity Nanodegree project P2](https://medium.com/@hengcherkeng/updated-my-99-68-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-56840768dec8#.4807n9nd9)|Cherkeng Heng|2017/02/26
@@ -32,7 +34,7 @@
 |[(98.8% solution) German sign classification using deep learning neural networks](https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.fcqd0j2zs)|Vivek Yadav|2016/12/15
 |[Traffic signs classification with Deep Learning.](https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.2j9z17dh6)|Mehdi Sqalli|2016/12/05
 
-## Project 03 - Behavioral Cloning
+### Project 3 - Behavioral Cloning
 |link|author|date|
 |:---|:---|:---|
 |[Alright Squares; Let's Talk Triangles](https://hoganengineering.wixsite.com/randomforest/single-post/2017/03/13/Alright-Squares-Lets-Talk-Triangles)|Andrew Hogan|2017/03/14
@@ -63,7 +65,7 @@
 |[Training and Validation Loss Mystery in Behavioral Cloning for CNN from Udacity SDC Project 3](https://medium.com/@KunfengChen/training-and-validation-loss-mystery-in-behavioral-cloning-for-cnn-from-udacity-sdc-project-3-dfe3eda596ba#.b5mf6e62r)|Kunfeng Chen|2016/12/18
 |[An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.f0kqrzs3n)|Vivek Yadav|2016/12/15
 
-## Project 04 - Advanced Lane Finding
+### Project 4 - Advanced Lane Finding
 |link|author|date|
 |:---|:---|:---|
 |[Detecting road features](http://navoshta.com/detecting-road-features/)|Alex Staravoitau|2017/03/06
@@ -82,7 +84,7 @@
 |[More robust lane finding using advanced computer vision techniques](https://chatbotslife.com/robust-lane-finding-using-advanced-computer-vision-techniques-46875bb3c8aa#.kt885rsbx)|Vivek Yadav|2017/01/16
 |[Udacity SDCND : Advanced Lane Finding Using OpenCV](https://medium.com/@heratypaul/udacity-sdcnd-advanced-lane-finding-45012da5ca7d#.rskrnue7l)|Paul Heraty|2017/01/12
 
-## Project 05 - Vehicle Detection and Tracking
+### Project 5 - Vehicle Detection and Tracking
 |link|author|date|
 |:---|:---|:---|
 |[Vehicle detection](https://medium.com/@MSqalli/vehicle-detection-497a779fbe21#.v92g99y9g)|Mehdi Sqalli|2017/03/27
@@ -93,3 +95,5 @@
 |[Vehicle Detection and Tracking](https://medium.com/@NickHortovanyi/vehicle-detection-and-tracking-6665d6e1089b#.e066crtx9)|Nick Hortovanyi|2017/02/24
 |[Feature extraction for Vehicle Detection using HOG+](https://medium.com/@mohankarthik/feature-extraction-for-vehicle-detection-using-hog-d99354a84d10#.yhq6rgias)|Mohan Karthik|2017/02/14
 |[Convolutional Neural Networks to find Cars](https://medium.com/@tuennermann/convolutional-neural-networks-to-find-cars-43cbc4fb713#.3z2dx2cnn)|Henrik Tünnermann|2017/01/16
+
+## Term 2: Sensor Fusion, Localization, and Control
