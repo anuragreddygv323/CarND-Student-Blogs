@@ -25,9 +25,9 @@
 |[Updated! My 99.68% solution to Udacity Nanodegree project P2](https://medium.com/@hengcherkeng/updated-my-99-68-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-56840768dec8#.4807n9nd9)|Cherkeng Heng|2017/02/26
 |[Convolutional Neural Network for Traffic Sign Classification — CarND](https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.ox1vp94ry)|Satya Sheel|2017/02/02
 |[UDACITY SDCE Nanodegree: Term 1- Project 2: Traffic Sign Classifier!](https://medium.com/@ckyrkou/udacity-sdc-nanodegree-term-1-project-2-traffic-sign-classifier-8d8a30e735b8#.me21jqo81)|Christos Kyrkou|2017/02/01
-|[How to identify a Traffic Sign using Machine Learning !!](https://medium.com/@sujaybabruwad/how-to-identify-a-traffic-sign-using-machine-learning-7aa98c871469#.95b63fbgf)|Sujay Babruwad|2017/01/22|
 |[Intricacies of Traffic Sign Classification with TensorFlow](https://chatbotslife.com/intricacies-of-traffic-sign-classification-with-tensorflow-8f994b1c8ba#.kkeoitwm0)|Param Aggarwal|2017/01/31
 |[Self-Driving Car Engineer Diary — 4](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-4-c75150cf93d5#.sunzk2v8p)|Andrew Wilkie|2017/01/30
+|[How to identify a Traffic Sign using Machine Learning !!](https://medium.com/@sujaybabruwad/how-to-identify-a-traffic-sign-using-machine-learning-7aa98c871469#.95b63fbgf)|Sujay Babruwad|2017/01/22|
 |[Udacity Self-Driving Car Nanodegree Project 2 —Traffic Sign Classifier](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-2-traffic-sign-classifier-f52d33d4be9f#.mfvkzpwvj)|Jeremy Shannon|2017/01/19
 |[German Traffic Sign Classification Using Deep Learning](https://medium.com/@muddassirahmed/german-traffic-sign-classification-using-deep-learning-219c53fba329#.qiuso98d5)|Muddassir Ahmed|2017/01/16
 |[Traffic signs classification with a convolutional network](http://navoshta.com/traffic-signs-classification/)|Alex Staravoitau |2017/01/15|
@@ -37,6 +37,7 @@
 ### Project 3 - Behavioral Cloning
 |link|author|date|
 |:---|:---|:---|
+|[Making A Virtual Self-Driving Car](https://medium.com/@muddassirahmed/making-a-virtual-self-driving-car-2d81f3f539e8)|Muddassir Ahmed|2017/03/31
 |[Alright Squares; Let's Talk Triangles](https://hoganengineering.wixsite.com/randomforest/single-post/2017/03/13/Alright-Squares-Lets-Talk-Triangles)|Andrew Hogan|2017/03/14
 |[Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.fn4z9fw0u)|Param Aggarwal|2017/03/05
 |[Transfer Learning for Behavioral Cloning](https://medium.com/@kosukemurakami/transfer-learning-for-behavioral-cloning-df0d49c0c69b#.2zeoq5tav)|Kosuke Murakami|2017/03/04
@@ -68,6 +69,7 @@
 ### Project 4 - Advanced Lane Finding
 |link|author|date|
 |:---|:---|:---|
+|[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
 |[Detecting road features](http://navoshta.com/detecting-road-features/)|Alex Staravoitau|2017/03/06
 |[UDACITY SDCE Nanodegree: Term 1- Project 4: Advanced Lane Finding!](https://medium.com/@ckyrkou/udacity-sdce-nanodegree-term-1-project-4-advanced-lane-finding-f88aa1be2fc6#.7zmxcsu9j)|Christos Kyrkou|2017/03/03
 |[Self-Driving Car Engineer Diary — 6](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.hv7jtkllp)|Andrew Wilkie|2017/03/03
