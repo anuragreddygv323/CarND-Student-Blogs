@@ -2,6 +2,12 @@
 
 ## Term 1: Computer Vision and Deep Learning
 
+### Overview - Term 1
+|link|author|date|
+|:---|:---|:---|
+|[Note to My Past Self: Pro Tips for Term 1 of the Udacity Self-Driving Car Nanodegree](https://medium.com/@dwolfATL/note-to-my-past-self-pro-tips-for-term-1-of-the-udacity-self-driving-car-nanodegree-76d6a3f2467e)|Daniel Wolf|2017/04/12
+|[Vision Needed](https://medium.com/towards-data-science/vision-needed-d2b0c7fd2387)|Harish Vadlamani|2017/04/04
+
 ### Project 1 - Finding Lane Lines
 |link|author|date|
 |:---|:---|:---|
@@ -64,6 +70,7 @@
 |[Teaching a car to mimic your driving behaviour](https://medium.com/@subodh.malgonde/teaching-a-car-to-mimic-your-driving-behaviour-c1f0ae543686#.zh506f5vp)|Subodh Malgonde|2017/01/10
 |[Behavioral Cloning For Self Driving Cars](https://medium.com/@ValipourMojtaba/my-approach-for-project-3-2545578a9319#.nuh0u0bvz)|Mojtaba Vàlipour|2017/01/09
 |[Behavioral Cloning — make a car drive like yourself](https://medium.com/@ksakmann/behavioral-cloning-make-a-car-drive-like-yourself-dc6021152713#.x9f7ttcxz)|Kaspar Sakmann|2016/12/25
+|[Cloning a car to mimic human driving](https://medium.com/@mohankarthik/cloning-a-car-to-mimic-human-driving-5c2f7e8d8aff)|Mohan Karthik|2016/12/23
 |[Training and Validation Loss Mystery in Behavioral Cloning for CNN from Udacity SDC Project 3](https://medium.com/@KunfengChen/training-and-validation-loss-mystery-in-behavioral-cloning-for-cnn-from-udacity-sdc-project-3-dfe3eda596ba#.b5mf6e62r)|Kunfeng Chen|2016/12/18
 |[An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.f0kqrzs3n)|Vivek Yadav|2016/12/15
 
