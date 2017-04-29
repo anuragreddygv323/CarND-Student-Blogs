@@ -37,6 +37,7 @@
 ### Project 3 - Behavioral Cloning
 |link|author|date|
 |:---|:---|:---|
+|[Behavioral Cloning: Tiny Mistake Cost Me 15 days](https://medium.com/becoming-human/behavioral-cloning-tiny-mistake-cost-me-15-days-23dd13a3b525)|Yazeed Alrubyli|2017/04/26
 |[Making A Virtual Self-Driving Car](https://medium.com/@muddassirahmed/making-a-virtual-self-driving-car-2d81f3f539e8)|Muddassir Ahmed|2017/03/31
 |[Alright Squares; Let's Talk Triangles](https://hoganengineering.wixsite.com/randomforest/single-post/2017/03/13/Alright-Squares-Lets-Talk-Triangles)|Andrew Hogan|2017/03/14
 |[Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.fn4z9fw0u)|Param Aggarwal|2017/03/05
@@ -71,6 +72,7 @@
 |:---|:---|:---|
 |[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
 |[Detecting road features](http://navoshta.com/detecting-road-features/)|Alex Staravoitau|2017/03/06
+|[Udacity Self-Driving Car Nanodegree Project 4 — Advanced Lane-Finding](https://medium.com/towards-data-science/udacity-self-driving-car-nanodegree-project-4-advanced-lane-finding-f4492136a19d)|Jeremy Shannon|2017/03/03
 |[UDACITY SDCE Nanodegree: Term 1- Project 4: Advanced Lane Finding!](https://medium.com/@ckyrkou/udacity-sdce-nanodegree-term-1-project-4-advanced-lane-finding-f88aa1be2fc6#.7zmxcsu9j)|Christos Kyrkou|2017/03/03
 |[Self-Driving Car Engineer Diary — 6](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.hv7jtkllp)|Andrew Wilkie|2017/03/03
 |[Finding Lane Lines with Colour Thresholds](https://medium.com/@tjosh.owoyemi/finding-lane-lines-with-colour-thresholds-beb542e0d839#.w6ymf58d8)|Joshua Owoyemi|2017/03/03
@@ -89,7 +91,9 @@
 ### Project 5 - Vehicle Detection and Tracking
 |link|author|date|
 |:---|:---|:---|
+|[SqueezeDet: Deep Learning for Object Detection](https://mez.github.io/2017/04/21/squeezedet-deep-learning-for-object-detection/)|Mez Gebre|2017/04/21
 |[Vehicle detection](https://medium.com/@MSqalli/vehicle-detection-497a779fbe21#.v92g99y9g)|Mehdi Sqalli|2017/03/27
+|[Udacity Self-Driving Car Nanodegree Project 5 — Vehicle Detection](https://medium.com/becoming-human/udacity-self-driving-car-nanodegree-project-5-vehicle-detection-fbf6a6795c13)|Jeremy Shannon|2017/03/17
 |[Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.jljsa6f9e)|Arnaldo Gunzi|2017/03/07
 |[Vehicle Detection and Distance Estimation](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.2qfiyxcgq)|Milutin N. Nikolic|2017/03/03
 |[(Almost) Real time vehicle detection using YOLO](https://medium.com/@xslittlegrass/almost-real-time-vehicle-detection-using-yolo-da0f016b43de#.riwaa22s3)|Mengxi Wu|2017/02/27
@@ -99,3 +103,9 @@
 |[Convolutional Neural Networks to find Cars](https://medium.com/@tuennermann/convolutional-neural-networks-to-find-cars-43cbc4fb713#.3z2dx2cnn)|Henrik Tünnermann|2017/01/16
 
 ## Term 2: Sensor Fusion, Localization, and Control
+
+### Project 6 - Extended Kalman Filter
+|link|author|date|
+|:---|:---|:---|
+|[Udacity Self-Driving Car Nanodegree Project 6 — Extended Kalman Filter](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-6-extended-kalman-filter-c3eac16c283d)|Jeremy Shannon|2017/04/21
+
