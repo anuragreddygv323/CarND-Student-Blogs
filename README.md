@@ -81,6 +81,7 @@
 |:---|:---|:---|
 |[Advanced computer vision with OpenCV, finding lane lines](https://medium.com/becoming-human/self-driving-cars-deep-neural-networks-and-convolutional-neural-networks-applied-to-clone-driving-ee2c623ac9b5)|Ricardo Zuccolo|2017/04/03
 |[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
+|[Automatic Lane Detection for Self Driving Cars](https://medium.com/towards-data-science/https-medium-com-priya-dwivedi-automatic-lane-detection-for-self-driving-cars-4f8b3dc0fb65)|Priya Dwivedi|2017/03/19
 |[Detecting road features](http://navoshta.com/detecting-road-features/)|Alex Staravoitau|2017/03/06
 |[Udacity Self-Driving Car Nanodegree Project 4 — Advanced Lane-Finding](https://medium.com/towards-data-science/udacity-self-driving-car-nanodegree-project-4-advanced-lane-finding-f4492136a19d)|Jeremy Shannon|2017/03/03
 |[UDACITY SDCE Nanodegree: Term 1- Project 4: Advanced Lane Finding!](https://medium.com/@ckyrkou/udacity-sdce-nanodegree-term-1-project-4-advanced-lane-finding-f88aa1be2fc6#.7zmxcsu9j)|Christos Kyrkou|2017/03/03
@@ -104,6 +105,7 @@
 |[SqueezeDet: Deep Learning for Object Detection](https://mez.github.io/2017/04/21/squeezedet-deep-learning-for-object-detection/)|Mez Gebre|2017/04/21
 |[OpenCV and SVM Machine Learning with Scikit-Learn for Vehicle Detection on the Road](https://medium.com/@ricardo.zuccolo/self-driving-cars-opencv-and-svm-machine-learning-with-scikit-learn-for-vehicle-detection-on-the-bf88860e055a)|Ricardo Zuccolo|2017/04/18
 |[Vehicle detection](https://medium.com/@MSqalli/vehicle-detection-497a779fbe21#.v92g99y9g)|Mehdi Sqalli|2017/03/27
+|[Automatic Vehicle Detection for Self Driving Cars](https://medium.com/towards-data-science/automatic-vehicle-detection-for-self-driving-cars-8d98c086b161)|Priya Dwivedi|2017/03/19
 |[Udacity Self-Driving Car Nanodegree Project 5 — Vehicle Detection](https://medium.com/becoming-human/udacity-self-driving-car-nanodegree-project-5-vehicle-detection-fbf6a6795c13)|Jeremy Shannon|2017/03/17
 |[Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.jljsa6f9e)|Arnaldo Gunzi|2017/03/07
 |[Vehicle Detection and Distance Estimation](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.2qfiyxcgq)|Milutin N. Nikolic|2017/03/03
@@ -119,4 +121,10 @@
 |link|author|date|
 |:---|:---|:---|
 |[Udacity Self-Driving Car Nanodegree Project 6 — Extended Kalman Filter](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-6-extended-kalman-filter-c3eac16c283d)|Jeremy Shannon|2017/04/21
+|[Tracking pedestrians for self driving cars](https://medium.com/towards-data-science/tracking-pedestrians-for-self-driving-cars-ccf588acd170)|Priya Dwivedi|2017/04/13
+
+### Project 8 - Kidnapped Vehicle
+|link|author|date|
+|:---|:---|:---|
+|[Helping a Self Driving Car Localize itself](https://medium.com/towards-data-science/helping-a-self-driving-car-localize-itself-88705f419e4a)|Priya Dwivedi|2017/05/01
 
