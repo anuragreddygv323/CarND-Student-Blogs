@@ -5,6 +5,7 @@
 ### Overview - Term 1
 |link|author|date|
 |:---|:---|:---|
+|[Diving into the world of self-driving cars](https://medium.com/towards-data-science/diving-into-the-world-of-self-driving-cars-5355474ae630)|Michael Virgo|2017/04/17
 |[Note to My Past Self: Pro Tips for Term 1 of the Udacity Self-Driving Car Nanodegree](https://medium.com/@dwolfATL/note-to-my-past-self-pro-tips-for-term-1-of-the-udacity-self-driving-car-nanodegree-76d6a3f2467e)|Daniel Wolf|2017/04/12
 |[Vision Needed](https://medium.com/towards-data-science/vision-needed-d2b0c7fd2387)|Harish Vadlamani|2017/04/04
 
@@ -44,6 +45,7 @@
 |link|author|date|
 |:---|:---|:---|
 |[Behavioral Cloning: Tiny Mistake Cost Me 15 days](https://medium.com/becoming-human/behavioral-cloning-tiny-mistake-cost-me-15-days-23dd13a3b525)|Yazeed Alrubyli|2017/04/26
+|[Deep neural networks and convolutional neural networks applied to clone driving behavior](https://medium.com/becoming-human/self-driving-cars-deep-neural-networks-and-convolutional-neural-networks-applied-to-clone-driving-ee2c623ac9b5)|Ricardo Zuccolo|2017/04/03
 |[Making A Virtual Self-Driving Car](https://medium.com/@muddassirahmed/making-a-virtual-self-driving-car-2d81f3f539e8)|Muddassir Ahmed|2017/03/31
 |[Alright Squares; Let's Talk Triangles](https://hoganengineering.wixsite.com/randomforest/single-post/2017/03/13/Alright-Squares-Lets-Talk-Triangles)|Andrew Hogan|2017/03/14
 |[Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.fn4z9fw0u)|Param Aggarwal|2017/03/05
@@ -77,6 +79,7 @@
 ### Project 4 - Advanced Lane Finding
 |link|author|date|
 |:---|:---|:---|
+|[Advanced computer vision with OpenCV, finding lane lines](https://medium.com/becoming-human/self-driving-cars-deep-neural-networks-and-convolutional-neural-networks-applied-to-clone-driving-ee2c623ac9b5)|Ricardo Zuccolo|2017/04/03
 |[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
 |[Detecting road features](http://navoshta.com/detecting-road-features/)|Alex Staravoitau|2017/03/06
 |[Udacity Self-Driving Car Nanodegree Project 4 — Advanced Lane-Finding](https://medium.com/towards-data-science/udacity-self-driving-car-nanodegree-project-4-advanced-lane-finding-f4492136a19d)|Jeremy Shannon|2017/03/03
@@ -99,6 +102,7 @@
 |link|author|date|
 |:---|:---|:---|
 |[SqueezeDet: Deep Learning for Object Detection](https://mez.github.io/2017/04/21/squeezedet-deep-learning-for-object-detection/)|Mez Gebre|2017/04/21
+|[OpenCV and SVM Machine Learning with Scikit-Learn for Vehicle Detection on the Road](https://medium.com/@ricardo.zuccolo/self-driving-cars-opencv-and-svm-machine-learning-with-scikit-learn-for-vehicle-detection-on-the-bf88860e055a)|Ricardo Zuccolo|2017/04/18
 |[Vehicle detection](https://medium.com/@MSqalli/vehicle-detection-497a779fbe21#.v92g99y9g)|Mehdi Sqalli|2017/03/27
 |[Udacity Self-Driving Car Nanodegree Project 5 — Vehicle Detection](https://medium.com/becoming-human/udacity-self-driving-car-nanodegree-project-5-vehicle-detection-fbf6a6795c13)|Jeremy Shannon|2017/03/17
 |[Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.jljsa6f9e)|Arnaldo Gunzi|2017/03/07
