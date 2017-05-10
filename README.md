@@ -7,6 +7,7 @@
 |:---|:---|:---|
 |[Diving into the world of self-driving cars](https://medium.com/towards-data-science/diving-into-the-world-of-self-driving-cars-5355474ae630)|Michael Virgo|2017/04/17
 |[Note to My Past Self: Pro Tips for Term 1 of the Udacity Self-Driving Car Nanodegree](https://medium.com/@dwolfATL/note-to-my-past-self-pro-tips-for-term-1-of-the-udacity-self-driving-car-nanodegree-76d6a3f2467e)|Daniel Wolf|2017/04/12
+|[A Short Review of Udacity’s Self-Driving Car Engineer Nanodegree — First Term](https://medium.com/@mithi/a-short-review-of-udacitys-self-driving-car-engineer-nanodegree-term-1-e36f5b9a72)|Mithi Sevilla|2017/04/06
 |[Vision Needed](https://medium.com/towards-data-science/vision-needed-d2b0c7fd2387)|Harish Vadlamani|2017/04/04
 
 ### Project 1 - Finding Lane Lines
@@ -45,6 +46,7 @@
 |link|author|date|
 |:---|:---|:---|
 |[Behavioral Cloning: Tiny Mistake Cost Me 15 days](https://medium.com/becoming-human/behavioral-cloning-tiny-mistake-cost-me-15-days-23dd13a3b525)|Yazeed Alrubyli|2017/04/26
+|[Cloning Driving Behavior with Keras and a Videogame-Like Simulator](https://medium.com/@mithi/cloning-driving-behavior-with-videogame-like-simulator-and-keras-e31129a8e3b6)|Mithi Sevilla|2017/04/05
 |[Deep neural networks and convolutional neural networks applied to clone driving behavior](https://medium.com/becoming-human/self-driving-cars-deep-neural-networks-and-convolutional-neural-networks-applied-to-clone-driving-ee2c623ac9b5)|Ricardo Zuccolo|2017/04/03
 |[Making A Virtual Self-Driving Car](https://medium.com/@muddassirahmed/making-a-virtual-self-driving-car-2d81f3f539e8)|Muddassir Ahmed|2017/03/31
 |[Alright Squares; Let's Talk Triangles](https://hoganengineering.wixsite.com/randomforest/single-post/2017/03/13/Alright-Squares-Lets-Talk-Triangles)|Andrew Hogan|2017/03/14
@@ -81,6 +83,7 @@
 |:---|:---|:---|
 |[Advanced computer vision with OpenCV, finding lane lines](https://medium.com/becoming-human/self-driving-cars-deep-neural-networks-and-convolutional-neural-networks-applied-to-clone-driving-ee2c623ac9b5)|Ricardo Zuccolo|2017/04/03
 |[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
+|[Road Lane Lines Detection using Advanced Computer Vision Techniques](https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2)|Mithi Sevilla|2017/03/26
 |[Automatic Lane Detection for Self Driving Cars](https://medium.com/towards-data-science/https-medium-com-priya-dwivedi-automatic-lane-detection-for-self-driving-cars-4f8b3dc0fb65)|Priya Dwivedi|2017/03/19
 |[Detecting road features](http://navoshta.com/detecting-road-features/)|Alex Staravoitau|2017/03/06
 |[Udacity Self-Driving Car Nanodegree Project 4 — Advanced Lane-Finding](https://medium.com/towards-data-science/udacity-self-driving-car-nanodegree-project-4-advanced-lane-finding-f4492136a19d)|Jeremy Shannon|2017/03/03
@@ -104,6 +107,7 @@
 |:---|:---|:---|
 |[SqueezeDet: Deep Learning for Object Detection](https://mez.github.io/2017/04/21/squeezedet-deep-learning-for-object-detection/)|Mez Gebre|2017/04/21
 |[OpenCV and SVM Machine Learning with Scikit-Learn for Vehicle Detection on the Road](https://medium.com/@ricardo.zuccolo/self-driving-cars-opencv-and-svm-machine-learning-with-scikit-learn-for-vehicle-detection-on-the-bf88860e055a)|Ricardo Zuccolo|2017/04/18
+|[Vehicle-Tracking with HOG and Linear SVM](https://medium.com/@mithi/vehicles-tracking-with-hog-and-linear-svm-c9f27eaf521a)|Mithi Sevilla|2017/03/28
 |[Vehicle detection](https://medium.com/@MSqalli/vehicle-detection-497a779fbe21#.v92g99y9g)|Mehdi Sqalli|2017/03/27
 |[Automatic Vehicle Detection for Self Driving Cars](https://medium.com/towards-data-science/automatic-vehicle-detection-for-self-driving-cars-8d98c086b161)|Priya Dwivedi|2017/03/19
 |[Udacity Self-Driving Car Nanodegree Project 5 — Vehicle Detection](https://medium.com/becoming-human/udacity-self-driving-car-nanodegree-project-5-vehicle-detection-fbf6a6795c13)|Jeremy Shannon|2017/03/17
@@ -120,6 +124,7 @@
 ### Project 6 - Extended Kalman Filter
 |link|author|date|
 |:---|:---|:---|
+|[Sensor Fusion and Object Tracking using an Extended Kalman Filter Algorithm](https://medium.com/@mithi/object-tracking-and-fusing-sensor-measurements-using-the-extended-kalman-filter-algorithm-part-1-f2158ef1e4f0)|Mithi Sevilla|2017/05/10
 |[Udacity Self-Driving Car Nanodegree Project 6 — Extended Kalman Filter](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-6-extended-kalman-filter-c3eac16c283d)|Jeremy Shannon|2017/04/21
 |[Tracking pedestrians for self driving cars](https://medium.com/towards-data-science/tracking-pedestrians-for-self-driving-cars-ccf588acd170)|Priya Dwivedi|2017/04/13
 
